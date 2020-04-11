@@ -1,2 +1,2 @@
-# GB.-Collection-and-processing-data-from-internet
+# Geekbrains. Parsing and processing data from internet. Homeworks
 Repository for study course
